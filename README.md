@@ -1,1 +1,1 @@
-Ezrealzz+ 11.0.9.0 ScrimEdition
+Ez+ 11.0.9.0 ScrimEdition
